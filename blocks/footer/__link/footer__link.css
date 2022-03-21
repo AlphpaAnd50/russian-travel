@@ -1,0 +1,33 @@
+
+.footer__link{
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 32px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  /* identical to box height, or 100% */
+}
+
+.footer__link:nth-of-type(5){
+  margin-bottom: 48px;
+}
+
+
+.footer__link:hover{
+  opacity: 0.8;
+}
+
+@media screen and (min-width:768px) {
+  .footer__link{
+    color: #fff;
+    margin-right: 18px;
+
+    font-size: 16px;
+    line-height: 18px;
+    /* identical to box height, or 112% */
+  }
+}
