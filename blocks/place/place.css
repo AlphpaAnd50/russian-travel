@@ -1,7 +1,6 @@
 .place{
   padding-top: 50px;
   display: grid;
-  justify-items: center;
   grid-template-columns: auto;
   row-gap: 32px;
 }

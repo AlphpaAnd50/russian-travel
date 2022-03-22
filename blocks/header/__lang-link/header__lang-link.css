@@ -1,7 +1,7 @@
 .header__lang-link{
   color: #fff;
   text-decoration: none;
-  font-family: 'Inter';
+
   font-weight: 400;
   font-size: 18px;
   line-height: 20px;
@@ -10,7 +10,6 @@
 
 .header__lang-link:nth-of-type(1) {
   margin-right: 18px;
-  text-decoration: underline;
 }
 
 .header__lang-link:hover {
