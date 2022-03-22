@@ -21,3 +21,7 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+**github**
+
+* [Ссылка на Проект в github](https://alphpaand50.github.io/russian-travel/)
