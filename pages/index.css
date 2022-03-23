@@ -3,13 +3,14 @@
 @import url(../fonts/Inter/Inter.css);
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
 
 /*_________________________________________________________ header */
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-
+@import url(../blocks/header/__lang-link/_pressed/header__lang-link_pressed.css);
 
 /*_________________________________________________________ lead */
 
@@ -58,5 +59,3 @@
 @import url(../blocks/footer/__menu/footer__menu.css);
 
 /*_________________________________________________________*/
-
-@import url(../blocks/pressed/pressed.css);
